@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  Xylophone
-//
+//  Copyright © 2020 London App Brewery. All rights reserved.
 
 import UIKit
 import AVFoundation
